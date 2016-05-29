@@ -1,0 +1,5 @@
+C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\14.IntegerToHexAndBinary\bin\Debug\14.IntegerToHexAndBinary.exe.config
+C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\14.IntegerToHexAndBinary\bin\Debug\14.IntegerToHexAndBinary.exe
+C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\14.IntegerToHexAndBinary\bin\Debug\14.IntegerToHexAndBinary.pdb
+C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\14.IntegerToHexAndBinary\obj\Debug\14.IntegerToHexAndBinary.exe
+C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\14.IntegerToHexAndBinary\obj\Debug\14.IntegerToHexAndBinary.pdb

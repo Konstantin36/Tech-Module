@@ -1,0 +1,6 @@
+C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\18.HelloName\bin\Debug\18.HelloName.exe.config
+C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\18.HelloName\bin\Debug\18.HelloName.exe
+C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\18.HelloName\bin\Debug\18.HelloName.pdb
+C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\18.HelloName\obj\Debug\18.HelloName.csprojResolveAssemblyReference.cache
+C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\18.HelloName\obj\Debug\18.HelloName.exe
+C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\18.HelloName\obj\Debug\18.HelloName.pdb

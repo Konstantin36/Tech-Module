@@ -1,0 +1,5 @@
+c:\users\mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe.config
+c:\users\mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe
+c:\users\mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\05.BooleanVariable\bin\Debug\05.BooleanVariable.pdb
+c:\users\mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\05.BooleanVariable\obj\Debug\05.BooleanVariable.exe
+c:\users\mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\05.BooleanVariable\obj\Debug\05.BooleanVariable.pdb

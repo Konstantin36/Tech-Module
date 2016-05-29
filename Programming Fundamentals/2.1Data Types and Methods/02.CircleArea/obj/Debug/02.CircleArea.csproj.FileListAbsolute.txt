@@ -1,0 +1,5 @@
+c:\users\mirela\documents\visual studio 2015\Projects\2.1Data Types and Methods\02.CircleArea\bin\Debug\02.CircleArea.exe.config
+c:\users\mirela\documents\visual studio 2015\Projects\2.1Data Types and Methods\02.CircleArea\bin\Debug\02.CircleArea.exe
+c:\users\mirela\documents\visual studio 2015\Projects\2.1Data Types and Methods\02.CircleArea\bin\Debug\02.CircleArea.pdb
+c:\users\mirela\documents\visual studio 2015\Projects\2.1Data Types and Methods\02.CircleArea\obj\Debug\02.CircleArea.exe
+c:\users\mirela\documents\visual studio 2015\Projects\2.1Data Types and Methods\02.CircleArea\obj\Debug\02.CircleArea.pdb

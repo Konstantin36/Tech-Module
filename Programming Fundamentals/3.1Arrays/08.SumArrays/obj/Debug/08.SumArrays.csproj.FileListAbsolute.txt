@@ -1,0 +1,6 @@
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.1Arrays\08.SumArrays\bin\Debug\08.SumArrays.exe.config
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.1Arrays\08.SumArrays\bin\Debug\08.SumArrays.exe
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.1Arrays\08.SumArrays\bin\Debug\08.SumArrays.pdb
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.1Arrays\08.SumArrays\obj\Debug\08.SumArrays.csprojResolveAssemblyReference.cache
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.1Arrays\08.SumArrays\obj\Debug\08.SumArrays.exe
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.1Arrays\08.SumArrays\obj\Debug\08.SumArrays.pdb

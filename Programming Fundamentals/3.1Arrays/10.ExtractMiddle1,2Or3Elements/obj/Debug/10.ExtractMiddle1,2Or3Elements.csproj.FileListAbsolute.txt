@@ -1,0 +1,5 @@
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.1Arrays\10.ExtractMiddle1,2Or3Elements\bin\Debug\10.ExtractMiddle1,2Or3Elements.exe.config
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.1Arrays\10.ExtractMiddle1,2Or3Elements\bin\Debug\10.ExtractMiddle1,2Or3Elements.exe
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.1Arrays\10.ExtractMiddle1,2Or3Elements\bin\Debug\10.ExtractMiddle1,2Or3Elements.pdb
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.1Arrays\10.ExtractMiddle1,2Or3Elements\obj\Debug\10.ExtractMiddle1,2Or3Elements.exe
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.1Arrays\10.ExtractMiddle1,2Or3Elements\obj\Debug\10.ExtractMiddle1,2Or3Elements.pdb

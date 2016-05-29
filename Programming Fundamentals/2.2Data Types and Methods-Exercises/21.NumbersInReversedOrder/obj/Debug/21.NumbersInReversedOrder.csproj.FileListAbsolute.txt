@@ -1,0 +1,6 @@
+C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\21.NumbersInReversedOrder\bin\Debug\21.NumbersInReversedOrder.exe.config
+C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\21.NumbersInReversedOrder\bin\Debug\21.NumbersInReversedOrder.exe
+C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\21.NumbersInReversedOrder\bin\Debug\21.NumbersInReversedOrder.pdb
+C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\21.NumbersInReversedOrder\obj\Debug\21.NumbersInReversedOrder.csprojResolveAssemblyReference.cache
+C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\21.NumbersInReversedOrder\obj\Debug\21.NumbersInReversedOrder.exe
+C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\21.NumbersInReversedOrder\obj\Debug\21.NumbersInReversedOrder.pdb

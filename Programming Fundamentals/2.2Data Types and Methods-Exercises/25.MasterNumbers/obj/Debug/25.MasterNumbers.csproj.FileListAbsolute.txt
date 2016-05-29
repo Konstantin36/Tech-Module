@@ -1,0 +1,5 @@
+C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\25.MasterNumbers\bin\Debug\25.MasterNumbers.exe.config
+C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\25.MasterNumbers\bin\Debug\25.MasterNumbers.exe
+C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\25.MasterNumbers\bin\Debug\25.MasterNumbers.pdb
+C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\25.MasterNumbers\obj\Debug\25.MasterNumbers.exe
+C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\25.MasterNumbers\obj\Debug\25.MasterNumbers.pdb

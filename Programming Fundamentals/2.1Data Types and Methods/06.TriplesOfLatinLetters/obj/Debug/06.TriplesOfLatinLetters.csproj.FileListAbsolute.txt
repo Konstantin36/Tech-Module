@@ -1,0 +1,6 @@
+c:\users\mirela\documents\visual studio 2015\Projects\2.1Data Types and Methods\06.TriplesOfLatinLetters\bin\Debug\06.TriplesOfLatinLetters.exe.config
+c:\users\mirela\documents\visual studio 2015\Projects\2.1Data Types and Methods\06.TriplesOfLatinLetters\bin\Debug\06.TriplesOfLatinLetters.exe
+c:\users\mirela\documents\visual studio 2015\Projects\2.1Data Types and Methods\06.TriplesOfLatinLetters\bin\Debug\06.TriplesOfLatinLetters.pdb
+c:\users\mirela\documents\visual studio 2015\Projects\2.1Data Types and Methods\06.TriplesOfLatinLetters\obj\Debug\06.TriplesOfLatinLetters.exe
+c:\users\mirela\documents\visual studio 2015\Projects\2.1Data Types and Methods\06.TriplesOfLatinLetters\obj\Debug\06.TriplesOfLatinLetters.pdb
+C:\Users\Mirela\documents\visual studio 2015\Projects\2.1Data Types and Methods\06.TriplesOfLatinLetters\obj\Debug\06.TriplesOfLatinLetters.csprojResolveAssemblyReference.cache

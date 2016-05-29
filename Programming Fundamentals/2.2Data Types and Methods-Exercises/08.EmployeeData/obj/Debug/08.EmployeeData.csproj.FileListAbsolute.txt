@@ -1,0 +1,5 @@
+c:\users\mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\08.EmployeeData\bin\Debug\08.EmployeeData.exe.config
+c:\users\mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\08.EmployeeData\bin\Debug\08.EmployeeData.exe
+c:\users\mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\08.EmployeeData\bin\Debug\08.EmployeeData.pdb
+c:\users\mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\08.EmployeeData\obj\Debug\08.EmployeeData.exe
+c:\users\mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\08.EmployeeData\obj\Debug\08.EmployeeData.pdb

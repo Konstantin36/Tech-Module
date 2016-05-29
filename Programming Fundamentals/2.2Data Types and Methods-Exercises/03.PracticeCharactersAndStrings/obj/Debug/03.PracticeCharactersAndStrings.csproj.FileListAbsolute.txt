@@ -1,0 +1,5 @@
+c:\users\mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\03.PracticeCharactersAndStrings\bin\Debug\03.PracticeCharactersAndStrings.exe.config
+c:\users\mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\03.PracticeCharactersAndStrings\bin\Debug\03.PracticeCharactersAndStrings.exe
+c:\users\mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\03.PracticeCharactersAndStrings\bin\Debug\03.PracticeCharactersAndStrings.pdb
+c:\users\mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\03.PracticeCharactersAndStrings\obj\Debug\03.PracticeCharactersAndStrings.exe
+c:\users\mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\03.PracticeCharactersAndStrings\obj\Debug\03.PracticeCharactersAndStrings.pdb

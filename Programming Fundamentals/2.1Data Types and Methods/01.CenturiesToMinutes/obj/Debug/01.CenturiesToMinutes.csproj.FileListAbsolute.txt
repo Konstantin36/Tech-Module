@@ -1,0 +1,6 @@
+c:\users\mirela\documents\visual studio 2015\Projects\2.1Data Types and Methods\01.CenturiesToMinutes\bin\Debug\01.CenturiesToMinutes.exe.config
+c:\users\mirela\documents\visual studio 2015\Projects\2.1Data Types and Methods\01.CenturiesToMinutes\bin\Debug\01.CenturiesToMinutes.exe
+c:\users\mirela\documents\visual studio 2015\Projects\2.1Data Types and Methods\01.CenturiesToMinutes\bin\Debug\01.CenturiesToMinutes.pdb
+c:\users\mirela\documents\visual studio 2015\Projects\2.1Data Types and Methods\01.CenturiesToMinutes\obj\Debug\01.CenturiesToMinutes.csprojResolveAssemblyReference.cache
+c:\users\mirela\documents\visual studio 2015\Projects\2.1Data Types and Methods\01.CenturiesToMinutes\obj\Debug\01.CenturiesToMinutes.exe
+c:\users\mirela\documents\visual studio 2015\Projects\2.1Data Types and Methods\01.CenturiesToMinutes\obj\Debug\01.CenturiesToMinutes.pdb

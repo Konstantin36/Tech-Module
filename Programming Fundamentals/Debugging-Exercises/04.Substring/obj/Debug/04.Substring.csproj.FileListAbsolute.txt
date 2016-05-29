@@ -1,0 +1,5 @@
+C:\Users\Mirela\documents\visual studio 2015\Projects\Debugging-Exercises\04.Substring\bin\Debug\04.Substring.exe.config
+C:\Users\Mirela\documents\visual studio 2015\Projects\Debugging-Exercises\04.Substring\bin\Debug\04.Substring.exe
+C:\Users\Mirela\documents\visual studio 2015\Projects\Debugging-Exercises\04.Substring\bin\Debug\04.Substring.pdb
+C:\Users\Mirela\documents\visual studio 2015\Projects\Debugging-Exercises\04.Substring\obj\Debug\04.Substring.exe
+C:\Users\Mirela\documents\visual studio 2015\Projects\Debugging-Exercises\04.Substring\obj\Debug\04.Substring.pdb

@@ -1,0 +1,5 @@
+c:\users\mirela\documents\visual studio 2015\Projects\2.1Data Types and Methods\03.ExactSumOfRealNumbers\bin\Debug\03.ExactSumOfRealNumbers.exe.config
+c:\users\mirela\documents\visual studio 2015\Projects\2.1Data Types and Methods\03.ExactSumOfRealNumbers\bin\Debug\03.ExactSumOfRealNumbers.exe
+c:\users\mirela\documents\visual studio 2015\Projects\2.1Data Types and Methods\03.ExactSumOfRealNumbers\bin\Debug\03.ExactSumOfRealNumbers.pdb
+c:\users\mirela\documents\visual studio 2015\Projects\2.1Data Types and Methods\03.ExactSumOfRealNumbers\obj\Debug\03.ExactSumOfRealNumbers.exe
+c:\users\mirela\documents\visual studio 2015\Projects\2.1Data Types and Methods\03.ExactSumOfRealNumbers\obj\Debug\03.ExactSumOfRealNumbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.1Arrays\07.ReverseAnArrayOfStrings\bin\Debug\07.ReverseAnArrayOfStrings.exe.config
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.1Arrays\07.ReverseAnArrayOfStrings\bin\Debug\07.ReverseAnArrayOfStrings.exe
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.1Arrays\07.ReverseAnArrayOfStrings\bin\Debug\07.ReverseAnArrayOfStrings.pdb
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.1Arrays\07.ReverseAnArrayOfStrings\obj\Debug\07.ReverseAnArrayOfStrings.exe
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.1Arrays\07.ReverseAnArrayOfStrings\obj\Debug\07.ReverseAnArrayOfStrings.pdb

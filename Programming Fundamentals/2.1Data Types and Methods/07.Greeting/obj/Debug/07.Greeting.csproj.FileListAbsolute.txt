@@ -1,0 +1,5 @@
+c:\users\mirela\documents\visual studio 2015\Projects\2.1Data Types and Methods\07.Greeting\bin\Debug\07.Greeting.exe.config
+c:\users\mirela\documents\visual studio 2015\Projects\2.1Data Types and Methods\07.Greeting\bin\Debug\07.Greeting.exe
+c:\users\mirela\documents\visual studio 2015\Projects\2.1Data Types and Methods\07.Greeting\bin\Debug\07.Greeting.pdb
+c:\users\mirela\documents\visual studio 2015\Projects\2.1Data Types and Methods\07.Greeting\obj\Debug\07.Greeting.exe
+c:\users\mirela\documents\visual studio 2015\Projects\2.1Data Types and Methods\07.Greeting\obj\Debug\07.Greeting.pdb

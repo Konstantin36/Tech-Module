@@ -1,0 +1,6 @@
+c:\users\mirela\documents\visual studio 2015\Projects\Debugging-Exercises\01.InstructionSet\bin\Debug\01.InstructionSet.exe.config
+c:\users\mirela\documents\visual studio 2015\Projects\Debugging-Exercises\01.InstructionSet\bin\Debug\01.InstructionSet.exe
+c:\users\mirela\documents\visual studio 2015\Projects\Debugging-Exercises\01.InstructionSet\bin\Debug\01.InstructionSet.pdb
+c:\users\mirela\documents\visual studio 2015\Projects\Debugging-Exercises\01.InstructionSet\obj\Debug\01.InstructionSet.csprojResolveAssemblyReference.cache
+c:\users\mirela\documents\visual studio 2015\Projects\Debugging-Exercises\01.InstructionSet\obj\Debug\01.InstructionSet.exe
+c:\users\mirela\documents\visual studio 2015\Projects\Debugging-Exercises\01.InstructionSet\obj\Debug\01.InstructionSet.pdb

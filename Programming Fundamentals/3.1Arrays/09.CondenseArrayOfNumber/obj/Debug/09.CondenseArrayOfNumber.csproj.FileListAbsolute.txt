@@ -1,0 +1,5 @@
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.1Arrays\09.CondenseArrayOfNumber\bin\Debug\09.CondenseArrayOfNumber.exe.config
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.1Arrays\09.CondenseArrayOfNumber\bin\Debug\09.CondenseArrayOfNumber.exe
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.1Arrays\09.CondenseArrayOfNumber\bin\Debug\09.CondenseArrayOfNumber.pdb
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.1Arrays\09.CondenseArrayOfNumber\obj\Debug\09.CondenseArrayOfNumber.exe
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.1Arrays\09.CondenseArrayOfNumber\obj\Debug\09.CondenseArrayOfNumber.pdb
