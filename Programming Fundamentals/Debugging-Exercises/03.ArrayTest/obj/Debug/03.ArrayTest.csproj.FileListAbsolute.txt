@@ -1,6 +1,0 @@
-C:\Users\Mirela\documents\visual studio 2015\Projects\Debugging-Exercises\03.ArrayTest\bin\Debug\03.ArrayTest.exe.config
-C:\Users\Mirela\documents\visual studio 2015\Projects\Debugging-Exercises\03.ArrayTest\bin\Debug\03.ArrayTest.exe
-C:\Users\Mirela\documents\visual studio 2015\Projects\Debugging-Exercises\03.ArrayTest\bin\Debug\03.ArrayTest.pdb
-C:\Users\Mirela\documents\visual studio 2015\Projects\Debugging-Exercises\03.ArrayTest\obj\Debug\03.ArrayTest.csprojResolveAssemblyReference.cache
-C:\Users\Mirela\documents\visual studio 2015\Projects\Debugging-Exercises\03.ArrayTest\obj\Debug\03.ArrayTest.exe
-C:\Users\Mirela\documents\visual studio 2015\Projects\Debugging-Exercises\03.ArrayTest\obj\Debug\03.ArrayTest.pdb

@@ -1,5 +1,0 @@
-c:\users\mirela\documents\visual studio 2015\Projects\Debugging-Exercises\02.BePositive\bin\Debug\02.BePositive.exe.config
-c:\users\mirela\documents\visual studio 2015\Projects\Debugging-Exercises\02.BePositive\bin\Debug\02.BePositive.exe
-c:\users\mirela\documents\visual studio 2015\Projects\Debugging-Exercises\02.BePositive\bin\Debug\02.BePositive.pdb
-c:\users\mirela\documents\visual studio 2015\Projects\Debugging-Exercises\02.BePositive\obj\Debug\02.BePositive.exe
-c:\users\mirela\documents\visual studio 2015\Projects\Debugging-Exercises\02.BePositive\obj\Debug\02.BePositive.pdb
