@@ -1,0 +1,5 @@
+c:\users\mirela\documents\visual studio 2015\Projects\5.1Strings, Dictionaries, Lambda and LINQ\07.OddOccurrences\bin\Debug\07.OddOccurrences.exe.config
+c:\users\mirela\documents\visual studio 2015\Projects\5.1Strings, Dictionaries, Lambda and LINQ\07.OddOccurrences\bin\Debug\07.OddOccurrences.exe
+c:\users\mirela\documents\visual studio 2015\Projects\5.1Strings, Dictionaries, Lambda and LINQ\07.OddOccurrences\bin\Debug\07.OddOccurrences.pdb
+c:\users\mirela\documents\visual studio 2015\Projects\5.1Strings, Dictionaries, Lambda and LINQ\07.OddOccurrences\obj\Debug\07.OddOccurrences.exe
+c:\users\mirela\documents\visual studio 2015\Projects\5.1Strings, Dictionaries, Lambda and LINQ\07.OddOccurrences\obj\Debug\07.OddOccurrences.pdb

@@ -1,0 +1,5 @@
+c:\users\mirela\documents\visual studio 2015\Projects\5.1Strings, Dictionaries, Lambda and LINQ\08.Largest3Numbers\bin\Debug\08.Largest3Numbers.exe.config
+c:\users\mirela\documents\visual studio 2015\Projects\5.1Strings, Dictionaries, Lambda and LINQ\08.Largest3Numbers\bin\Debug\08.Largest3Numbers.exe
+c:\users\mirela\documents\visual studio 2015\Projects\5.1Strings, Dictionaries, Lambda and LINQ\08.Largest3Numbers\bin\Debug\08.Largest3Numbers.pdb
+c:\users\mirela\documents\visual studio 2015\Projects\5.1Strings, Dictionaries, Lambda and LINQ\08.Largest3Numbers\obj\Debug\08.Largest3Numbers.exe
+c:\users\mirela\documents\visual studio 2015\Projects\5.1Strings, Dictionaries, Lambda and LINQ\08.Largest3Numbers\obj\Debug\08.Largest3Numbers.pdb

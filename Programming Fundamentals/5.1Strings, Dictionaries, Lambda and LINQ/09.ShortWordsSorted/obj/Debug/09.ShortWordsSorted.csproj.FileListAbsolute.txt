@@ -1,0 +1,5 @@
+c:\users\mirela\documents\visual studio 2015\Projects\5.1Strings, Dictionaries, Lambda and LINQ\09.ShortWordsSorted\bin\Debug\09.ShortWordsSorted.exe.config
+c:\users\mirela\documents\visual studio 2015\Projects\5.1Strings, Dictionaries, Lambda and LINQ\09.ShortWordsSorted\bin\Debug\09.ShortWordsSorted.exe
+c:\users\mirela\documents\visual studio 2015\Projects\5.1Strings, Dictionaries, Lambda and LINQ\09.ShortWordsSorted\bin\Debug\09.ShortWordsSorted.pdb
+c:\users\mirela\documents\visual studio 2015\Projects\5.1Strings, Dictionaries, Lambda and LINQ\09.ShortWordsSorted\obj\Debug\09.ShortWordsSorted.exe
+c:\users\mirela\documents\visual studio 2015\Projects\5.1Strings, Dictionaries, Lambda and LINQ\09.ShortWordsSorted\obj\Debug\09.ShortWordsSorted.pdb

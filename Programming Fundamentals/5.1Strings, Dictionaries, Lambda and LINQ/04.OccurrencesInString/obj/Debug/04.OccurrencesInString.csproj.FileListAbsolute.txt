@@ -1,0 +1,5 @@
+c:\users\mirela\documents\visual studio 2015\Projects\5.1Strings, Dictionaries, Lambda and LINQ\04.OccurrencesInString\bin\Debug\04.OccurrencesInString.exe.config
+c:\users\mirela\documents\visual studio 2015\Projects\5.1Strings, Dictionaries, Lambda and LINQ\04.OccurrencesInString\bin\Debug\04.OccurrencesInString.exe
+c:\users\mirela\documents\visual studio 2015\Projects\5.1Strings, Dictionaries, Lambda and LINQ\04.OccurrencesInString\bin\Debug\04.OccurrencesInString.pdb
+c:\users\mirela\documents\visual studio 2015\Projects\5.1Strings, Dictionaries, Lambda and LINQ\04.OccurrencesInString\obj\Debug\04.OccurrencesInString.exe
+c:\users\mirela\documents\visual studio 2015\Projects\5.1Strings, Dictionaries, Lambda and LINQ\04.OccurrencesInString\obj\Debug\04.OccurrencesInString.pdb
