@@ -2,57 +2,80 @@
 
 namespace _25.MasterNumbers
 {
-    using System.Collections.Generic;
-    using System.Linq;
-
     public class MasterNumbers
     {
         public static void Main()
         {
-            int number = int.Parse(Console.ReadLine());
+            long num = long.Parse(Console.ReadLine());
 
-            for (int i = 1; i < number; i++)
+            for (int i = 1; i <= num; i++)
             {
-                if (IsPalindrome(i) && 
-                    (SumOfDigits(i) % 7 == 0) && 
-                    ContainsEvenDigit(i))
+                if (IsPalndrome(i))
                 {
-                    Console.WriteLine(i);
+                    if (SumOfDigits(i))
+                    {
+                        if (ContainsEvenDigit(i))
+                        {
+                            Console.WriteLine(i);
+                        }
+                    }
                 }
             }
         }
 
         private static bool ContainsEvenDigit(int i)
         {
-            bool isEven = false;
-
             while (i != 0)
             {
-                int currNum = i % 10;
-                if (currNum % 2 == 0)
+                if ((i % 10) % 2 == 0)
                 {
-                    isEven = true;
+                    return true;
                 }
-                i /= 10;
+
+                i = i / 10;
             }
-            return isEven;
+
+            return false;
         }
 
-        private static int SumOfDigits(int i)
+        private static bool SumOfDigits(int i)
         {
-            int sum = 0;
+            long sum = FindSum(i);
+            if (sum % 7 == 0)
+            {
+                return true;
+            }
+
+            return false;
+        }
+
+        private static long FindSum(int i)
+        {
+            long sum = 0;
             while (i != 0)
             {
                 sum += i % 10;
-                i /= 10;
+                i = i / 10;
             }
+
             return sum;
         }
 
-        private static bool IsPalindrome(int i)
+        private static bool IsPalndrome(int arg)
         {
-            IEnumerable<char> forwards = i.ToString().ToCharArray();
-            return forwards.SequenceEqual(forwards.Reverse());
+            bool palindrome = true;
+            string num = arg.ToString();
+
+            for (int i = 0; i <= num.Length / 2; i++)
+            {
+                if (num[i] != num[num.Length - 1 - i])
+                {
+                    palindrome = false;
+                    break;
+                }
+            }
+
+            return palindrome;
         }
     }
 }
