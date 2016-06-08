@@ -1,0 +1,6 @@
+c:\users\mirela\documents\visual studio 2015\Projects\4.1Lists and Matrices\04.SplitByWordCasting\bin\Debug\04.SplitByWordCasting.exe.config
+c:\users\mirela\documents\visual studio 2015\Projects\4.1Lists and Matrices\04.SplitByWordCasting\bin\Debug\04.SplitByWordCasting.exe
+c:\users\mirela\documents\visual studio 2015\Projects\4.1Lists and Matrices\04.SplitByWordCasting\bin\Debug\04.SplitByWordCasting.pdb
+c:\users\mirela\documents\visual studio 2015\Projects\4.1Lists and Matrices\04.SplitByWordCasting\obj\Debug\04.SplitByWordCasting.csprojResolveAssemblyReference.cache
+c:\users\mirela\documents\visual studio 2015\Projects\4.1Lists and Matrices\04.SplitByWordCasting\obj\Debug\04.SplitByWordCasting.exe
+c:\users\mirela\documents\visual studio 2015\Projects\4.1Lists and Matrices\04.SplitByWordCasting\obj\Debug\04.SplitByWordCasting.pdb

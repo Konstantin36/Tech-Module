@@ -1,0 +1,5 @@
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\4.1Lists and Matrices\09.RotateAMatrix\bin\Debug\09.RotateAMatrix.exe.config
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\4.1Lists and Matrices\09.RotateAMatrix\bin\Debug\09.RotateAMatrix.exe
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\4.1Lists and Matrices\09.RotateAMatrix\bin\Debug\09.RotateAMatrix.pdb
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\4.1Lists and Matrices\09.RotateAMatrix\obj\Debug\09.RotateAMatrix.exe
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\4.1Lists and Matrices\09.RotateAMatrix\obj\Debug\09.RotateAMatrix.pdb
