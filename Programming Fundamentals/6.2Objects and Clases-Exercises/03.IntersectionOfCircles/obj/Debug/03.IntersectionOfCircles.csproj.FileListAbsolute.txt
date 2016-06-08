@@ -1,0 +1,6 @@
+c:\users\mirela\documents\visual studio 2015\Projects\6.2Objects and Clases-Exercises\03.IntersectionOfCircles\bin\Debug\03.IntersectionOfCircles.exe.config
+c:\users\mirela\documents\visual studio 2015\Projects\6.2Objects and Clases-Exercises\03.IntersectionOfCircles\bin\Debug\03.IntersectionOfCircles.exe
+c:\users\mirela\documents\visual studio 2015\Projects\6.2Objects and Clases-Exercises\03.IntersectionOfCircles\bin\Debug\03.IntersectionOfCircles.pdb
+c:\users\mirela\documents\visual studio 2015\Projects\6.2Objects and Clases-Exercises\03.IntersectionOfCircles\obj\Debug\03.IntersectionOfCircles.csprojResolveAssemblyReference.cache
+c:\users\mirela\documents\visual studio 2015\Projects\6.2Objects and Clases-Exercises\03.IntersectionOfCircles\obj\Debug\03.IntersectionOfCircles.exe
+c:\users\mirela\documents\visual studio 2015\Projects\6.2Objects and Clases-Exercises\03.IntersectionOfCircles\obj\Debug\03.IntersectionOfCircles.pdb

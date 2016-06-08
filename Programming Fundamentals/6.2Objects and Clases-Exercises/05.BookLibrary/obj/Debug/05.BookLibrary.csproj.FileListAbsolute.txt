@@ -1,0 +1,6 @@
+c:\users\mirela\documents\visual studio 2015\Projects\6.2Objects and Clases-Exercises\05.BookLibrary\bin\Debug\05.BookLibrary.exe.config
+c:\users\mirela\documents\visual studio 2015\Projects\6.2Objects and Clases-Exercises\05.BookLibrary\bin\Debug\05.BookLibrary.exe
+c:\users\mirela\documents\visual studio 2015\Projects\6.2Objects and Clases-Exercises\05.BookLibrary\bin\Debug\05.BookLibrary.pdb
+c:\users\mirela\documents\visual studio 2015\Projects\6.2Objects and Clases-Exercises\05.BookLibrary\obj\Debug\05.BookLibrary.csprojResolveAssemblyReference.cache
+c:\users\mirela\documents\visual studio 2015\Projects\6.2Objects and Clases-Exercises\05.BookLibrary\obj\Debug\05.BookLibrary.exe
+c:\users\mirela\documents\visual studio 2015\Projects\6.2Objects and Clases-Exercises\05.BookLibrary\obj\Debug\05.BookLibrary.pdb
