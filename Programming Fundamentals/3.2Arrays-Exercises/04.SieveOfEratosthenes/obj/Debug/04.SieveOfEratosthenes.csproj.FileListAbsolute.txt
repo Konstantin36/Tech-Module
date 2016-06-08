@@ -1,0 +1,6 @@
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.2Arrays-Exercises\04.SieveOfEratosthenes\bin\Debug\04.SieveOfEratosthenes.exe.config
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.2Arrays-Exercises\04.SieveOfEratosthenes\bin\Debug\04.SieveOfEratosthenes.exe
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.2Arrays-Exercises\04.SieveOfEratosthenes\bin\Debug\04.SieveOfEratosthenes.pdb
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.2Arrays-Exercises\04.SieveOfEratosthenes\obj\Debug\04.SieveOfEratosthenes.csprojResolveAssemblyReference.cache
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.2Arrays-Exercises\04.SieveOfEratosthenes\obj\Debug\04.SieveOfEratosthenes.exe
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.2Arrays-Exercises\04.SieveOfEratosthenes\obj\Debug\04.SieveOfEratosthenes.pdb
