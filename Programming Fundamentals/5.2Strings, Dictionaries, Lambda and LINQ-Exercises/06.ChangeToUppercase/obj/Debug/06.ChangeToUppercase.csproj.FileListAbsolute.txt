@@ -1,0 +1,1 @@
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\06.ChangeToUppercase\bin\Debug\06.ChangeToUppercase.exe.config

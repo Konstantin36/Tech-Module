@@ -1,0 +1,6 @@
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\10.PalindromeIndex\bin\Debug\10.PalindromeIndex.exe.config
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\10.PalindromeIndex\bin\Debug\10.PalindromeIndex.exe
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\10.PalindromeIndex\bin\Debug\10.PalindromeIndex.pdb
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\10.PalindromeIndex\obj\Debug\10.PalindromeIndex.exe
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\10.PalindromeIndex\obj\Debug\10.PalindromeIndex.pdb
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\10.PalindromeIndex\obj\Debug\10.PalindromeIndex.csprojResolveAssemblyReference.cache

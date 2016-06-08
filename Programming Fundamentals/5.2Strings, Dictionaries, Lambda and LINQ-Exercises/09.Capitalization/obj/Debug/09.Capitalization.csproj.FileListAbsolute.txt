@@ -1,0 +1,5 @@
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\09.Capitalization\bin\Debug\09.Capitalization.exe.config
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\09.Capitalization\bin\Debug\09.Capitalization.exe
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\09.Capitalization\bin\Debug\09.Capitalization.pdb
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\09.Capitalization\obj\Debug\09.Capitalization.exe
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\09.Capitalization\obj\Debug\09.Capitalization.pdb

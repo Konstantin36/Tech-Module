@@ -1,0 +1,5 @@
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\07.ChangeToUppercase\bin\Debug\07.ChangeToUppercase.exe.config
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\07.ChangeToUppercase\bin\Debug\07.ChangeToUppercase.exe
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\07.ChangeToUppercase\bin\Debug\07.ChangeToUppercase.pdb
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\07.ChangeToUppercase\obj\Debug\07.ChangeToUppercase.exe
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\07.ChangeToUppercase\obj\Debug\07.ChangeToUppercase.pdb
