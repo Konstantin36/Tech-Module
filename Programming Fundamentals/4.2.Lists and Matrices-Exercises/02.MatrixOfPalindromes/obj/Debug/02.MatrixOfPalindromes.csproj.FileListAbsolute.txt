@@ -1,0 +1,6 @@
+c:\users\mirela\documents\visual studio 2015\Projects\4.2.Lists and Matrices-Exercises\02.MatrixOfPalindromes\bin\Debug\02.MatrixOfPalindromes.exe.config
+c:\users\mirela\documents\visual studio 2015\Projects\4.2.Lists and Matrices-Exercises\02.MatrixOfPalindromes\bin\Debug\02.MatrixOfPalindromes.exe
+c:\users\mirela\documents\visual studio 2015\Projects\4.2.Lists and Matrices-Exercises\02.MatrixOfPalindromes\bin\Debug\02.MatrixOfPalindromes.pdb
+c:\users\mirela\documents\visual studio 2015\Projects\4.2.Lists and Matrices-Exercises\02.MatrixOfPalindromes\obj\Debug\02.MatrixOfPalindromes.csprojResolveAssemblyReference.cache
+c:\users\mirela\documents\visual studio 2015\Projects\4.2.Lists and Matrices-Exercises\02.MatrixOfPalindromes\obj\Debug\02.MatrixOfPalindromes.exe
+c:\users\mirela\documents\visual studio 2015\Projects\4.2.Lists and Matrices-Exercises\02.MatrixOfPalindromes\obj\Debug\02.MatrixOfPalindromes.pdb

@@ -1,0 +1,6 @@
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\4.2.Lists and Matrices-Exercises\04.2x2SquaresInMatrix\bin\Debug\04.2x2SquaresInMatrix.exe.config
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\4.2.Lists and Matrices-Exercises\04.2x2SquaresInMatrix\bin\Debug\04.2x2SquaresInMatrix.exe
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\4.2.Lists and Matrices-Exercises\04.2x2SquaresInMatrix\bin\Debug\04.2x2SquaresInMatrix.pdb
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\4.2.Lists and Matrices-Exercises\04.2x2SquaresInMatrix\obj\Debug\04.2x2SquaresInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\4.2.Lists and Matrices-Exercises\04.2x2SquaresInMatrix\obj\Debug\04.2x2SquaresInMatrix.exe
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\4.2.Lists and Matrices-Exercises\04.2x2SquaresInMatrix\obj\Debug\04.2x2SquaresInMatrix.pdb

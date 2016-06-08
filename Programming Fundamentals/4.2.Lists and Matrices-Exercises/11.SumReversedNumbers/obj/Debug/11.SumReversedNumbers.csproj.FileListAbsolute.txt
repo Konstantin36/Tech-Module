@@ -1,0 +1,6 @@
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\4.2.Lists and Matrices-Exercises\11.SumReversedNumbers\bin\Debug\11.SumReversedNumbers.exe.config
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\4.2.Lists and Matrices-Exercises\11.SumReversedNumbers\bin\Debug\11.SumReversedNumbers.exe
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\4.2.Lists and Matrices-Exercises\11.SumReversedNumbers\bin\Debug\11.SumReversedNumbers.pdb
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\4.2.Lists and Matrices-Exercises\11.SumReversedNumbers\obj\Debug\11.SumReversedNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\4.2.Lists and Matrices-Exercises\11.SumReversedNumbers\obj\Debug\11.SumReversedNumbers.exe
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\4.2.Lists and Matrices-Exercises\11.SumReversedNumbers\obj\Debug\11.SumReversedNumbers.pdb

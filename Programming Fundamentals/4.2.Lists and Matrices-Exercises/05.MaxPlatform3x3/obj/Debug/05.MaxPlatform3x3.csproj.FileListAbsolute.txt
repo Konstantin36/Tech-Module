@@ -1,0 +1,6 @@
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\4.2.Lists and Matrices-Exercises\05.MaxPlatform3x3\bin\Debug\05.MaxPlatform3x3.exe.config
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\4.2.Lists and Matrices-Exercises\05.MaxPlatform3x3\bin\Debug\05.MaxPlatform3x3.exe
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\4.2.Lists and Matrices-Exercises\05.MaxPlatform3x3\bin\Debug\05.MaxPlatform3x3.pdb
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\4.2.Lists and Matrices-Exercises\05.MaxPlatform3x3\obj\Debug\05.MaxPlatform3x3.csprojResolveAssemblyReference.cache
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\4.2.Lists and Matrices-Exercises\05.MaxPlatform3x3\obj\Debug\05.MaxPlatform3x3.exe
+C:\Users\Mirela\Documents\Visual Studio 2015\Projects\4.2.Lists and Matrices-Exercises\05.MaxPlatform3x3\obj\Debug\05.MaxPlatform3x3.pdb
