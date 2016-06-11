@@ -1,0 +1,6 @@
+c:\users\mirela\documents\visual studio 2015\Projects\Programming Fundamentals Sample Exam I - June 2016\02.ArrayModifier\bin\Debug\02.ArrayModifier.exe.config
+c:\users\mirela\documents\visual studio 2015\Projects\Programming Fundamentals Sample Exam I - June 2016\02.ArrayModifier\bin\Debug\02.ArrayModifier.exe
+c:\users\mirela\documents\visual studio 2015\Projects\Programming Fundamentals Sample Exam I - June 2016\02.ArrayModifier\bin\Debug\02.ArrayModifier.pdb
+c:\users\mirela\documents\visual studio 2015\Projects\Programming Fundamentals Sample Exam I - June 2016\02.ArrayModifier\obj\Debug\02.ArrayModifier.csprojResolveAssemblyReference.cache
+c:\users\mirela\documents\visual studio 2015\Projects\Programming Fundamentals Sample Exam I - June 2016\02.ArrayModifier\obj\Debug\02.ArrayModifier.exe
+c:\users\mirela\documents\visual studio 2015\Projects\Programming Fundamentals Sample Exam I - June 2016\02.ArrayModifier\obj\Debug\02.ArrayModifier.pdb

@@ -1,0 +1,6 @@
+c:\users\mirela\documents\visual studio 2015\Projects\Programming Fundamentals Sample Exam I - June 2016\01.SweetDessert\bin\Debug\01.SweetDessert.exe.config
+c:\users\mirela\documents\visual studio 2015\Projects\Programming Fundamentals Sample Exam I - June 2016\01.SweetDessert\bin\Debug\01.SweetDessert.exe
+c:\users\mirela\documents\visual studio 2015\Projects\Programming Fundamentals Sample Exam I - June 2016\01.SweetDessert\bin\Debug\01.SweetDessert.pdb
+c:\users\mirela\documents\visual studio 2015\Projects\Programming Fundamentals Sample Exam I - June 2016\01.SweetDessert\obj\Debug\01.SweetDessert.csprojResolveAssemblyReference.cache
+c:\users\mirela\documents\visual studio 2015\Projects\Programming Fundamentals Sample Exam I - June 2016\01.SweetDessert\obj\Debug\01.SweetDessert.exe
+c:\users\mirela\documents\visual studio 2015\Projects\Programming Fundamentals Sample Exam I - June 2016\01.SweetDessert\obj\Debug\01.SweetDessert.pdb

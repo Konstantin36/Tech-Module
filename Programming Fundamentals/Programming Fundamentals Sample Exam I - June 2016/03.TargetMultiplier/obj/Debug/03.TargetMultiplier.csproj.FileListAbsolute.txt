@@ -1,0 +1,6 @@
+c:\users\mirela\documents\visual studio 2015\Projects\Programming Fundamentals Sample Exam I - June 2016\03.TargetMultiplier\bin\Debug\03.TargetMultiplier.exe.config
+c:\users\mirela\documents\visual studio 2015\Projects\Programming Fundamentals Sample Exam I - June 2016\03.TargetMultiplier\bin\Debug\03.TargetMultiplier.exe
+c:\users\mirela\documents\visual studio 2015\Projects\Programming Fundamentals Sample Exam I - June 2016\03.TargetMultiplier\bin\Debug\03.TargetMultiplier.pdb
+c:\users\mirela\documents\visual studio 2015\Projects\Programming Fundamentals Sample Exam I - June 2016\03.TargetMultiplier\obj\Debug\03.TargetMultiplier.csprojResolveAssemblyReference.cache
+c:\users\mirela\documents\visual studio 2015\Projects\Programming Fundamentals Sample Exam I - June 2016\03.TargetMultiplier\obj\Debug\03.TargetMultiplier.exe
+c:\users\mirela\documents\visual studio 2015\Projects\Programming Fundamentals Sample Exam I - June 2016\03.TargetMultiplier\obj\Debug\03.TargetMultiplier.pdb
