@@ -1,5 +1,0 @@
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.2Arrays-Exercises\09.IndexOfLetters\bin\Debug\09.IndexOfLetters.exe.config
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.2Arrays-Exercises\09.IndexOfLetters\bin\Debug\09.IndexOfLetters.exe
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.2Arrays-Exercises\09.IndexOfLetters\bin\Debug\09.IndexOfLetters.pdb
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.2Arrays-Exercises\09.IndexOfLetters\obj\Debug\09.IndexOfLetters.exe
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.2Arrays-Exercises\09.IndexOfLetters\obj\Debug\09.IndexOfLetters.pdb

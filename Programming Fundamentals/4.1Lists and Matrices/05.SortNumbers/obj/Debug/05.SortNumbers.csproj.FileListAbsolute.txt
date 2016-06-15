@@ -1,5 +1,0 @@
-c:\users\mirela\documents\visual studio 2015\Projects\4.1Lists and Matrices\05.SortNumbers\bin\Debug\05.SortNumbers.exe.config
-c:\users\mirela\documents\visual studio 2015\Projects\4.1Lists and Matrices\05.SortNumbers\bin\Debug\05.SortNumbers.exe
-c:\users\mirela\documents\visual studio 2015\Projects\4.1Lists and Matrices\05.SortNumbers\bin\Debug\05.SortNumbers.pdb
-c:\users\mirela\documents\visual studio 2015\Projects\4.1Lists and Matrices\05.SortNumbers\obj\Debug\05.SortNumbers.exe
-c:\users\mirela\documents\visual studio 2015\Projects\4.1Lists and Matrices\05.SortNumbers\obj\Debug\05.SortNumbers.pdb

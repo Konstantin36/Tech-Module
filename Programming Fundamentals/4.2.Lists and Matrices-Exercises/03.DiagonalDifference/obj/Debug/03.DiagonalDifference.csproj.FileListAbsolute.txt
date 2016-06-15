@@ -1,6 +1,0 @@
-c:\users\mirela\documents\visual studio 2015\Projects\4.2.Lists and Matrices-Exercises\03.DiagonalDifference\bin\Debug\03.DiagonalDifference.exe.config
-c:\users\mirela\documents\visual studio 2015\Projects\4.2.Lists and Matrices-Exercises\03.DiagonalDifference\bin\Debug\03.DiagonalDifference.exe
-c:\users\mirela\documents\visual studio 2015\Projects\4.2.Lists and Matrices-Exercises\03.DiagonalDifference\bin\Debug\03.DiagonalDifference.pdb
-c:\users\mirela\documents\visual studio 2015\Projects\4.2.Lists and Matrices-Exercises\03.DiagonalDifference\obj\Debug\03.DiagonalDifference.csprojResolveAssemblyReference.cache
-c:\users\mirela\documents\visual studio 2015\Projects\4.2.Lists and Matrices-Exercises\03.DiagonalDifference\obj\Debug\03.DiagonalDifference.exe
-c:\users\mirela\documents\visual studio 2015\Projects\4.2.Lists and Matrices-Exercises\03.DiagonalDifference\obj\Debug\03.DiagonalDifference.pdb

@@ -1,5 +1,0 @@
-c:\users\mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\02.PracticeFloatingPointNumbers\bin\Debug\02.PracticeFloatingPointNumbers.exe.config
-c:\users\mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\02.PracticeFloatingPointNumbers\bin\Debug\02.PracticeFloatingPointNumbers.exe
-c:\users\mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\02.PracticeFloatingPointNumbers\bin\Debug\02.PracticeFloatingPointNumbers.pdb
-c:\users\mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\02.PracticeFloatingPointNumbers\obj\Debug\02.PracticeFloatingPointNumbers.exe
-c:\users\mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\02.PracticeFloatingPointNumbers\obj\Debug\02.PracticeFloatingPointNumbers.pdb

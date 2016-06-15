@@ -1,1 +1,0 @@
-c:\users\mirela\documents\visual studio 2015\Projects\3.1Arrays\01.DayOfWeek\bin\Debug\01.DayOfWeek.exe.config

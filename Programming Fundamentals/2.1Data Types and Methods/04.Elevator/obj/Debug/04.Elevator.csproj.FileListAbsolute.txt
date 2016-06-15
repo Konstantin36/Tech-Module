@@ -1,5 +1,0 @@
-c:\users\mirela\documents\visual studio 2015\Projects\2.1Data Types and Methods\04.Elevator\bin\Debug\04.Elevator.exe.config
-c:\users\mirela\documents\visual studio 2015\Projects\2.1Data Types and Methods\04.Elevator\bin\Debug\04.Elevator.exe
-c:\users\mirela\documents\visual studio 2015\Projects\2.1Data Types and Methods\04.Elevator\bin\Debug\04.Elevator.pdb
-c:\users\mirela\documents\visual studio 2015\Projects\2.1Data Types and Methods\04.Elevator\obj\Debug\04.Elevator.exe
-c:\users\mirela\documents\visual studio 2015\Projects\2.1Data Types and Methods\04.Elevator\obj\Debug\04.Elevator.pdb

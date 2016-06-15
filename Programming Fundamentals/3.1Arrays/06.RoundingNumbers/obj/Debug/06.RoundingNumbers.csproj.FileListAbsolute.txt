@@ -1,5 +1,0 @@
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.1Arrays\06.RoundingNumbers\bin\Debug\06.RoundingNumbers.exe.config
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.1Arrays\06.RoundingNumbers\bin\Debug\06.RoundingNumbers.exe
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.1Arrays\06.RoundingNumbers\bin\Debug\06.RoundingNumbers.pdb
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.1Arrays\06.RoundingNumbers\obj\Debug\06.RoundingNumbers.exe
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.1Arrays\06.RoundingNumbers\obj\Debug\06.RoundingNumbers.pdb

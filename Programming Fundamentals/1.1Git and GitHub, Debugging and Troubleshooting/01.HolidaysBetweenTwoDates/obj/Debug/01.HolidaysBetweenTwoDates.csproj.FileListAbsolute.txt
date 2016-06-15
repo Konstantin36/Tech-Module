@@ -1,5 +1,0 @@
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\1.1Git and GitHub, Debugging and Troubleshooting\01.HolidaysBetweenTwoDates\bin\Debug\01.HolidaysBetweenTwoDates.exe.config
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\1.1Git and GitHub, Debugging and Troubleshooting\01.HolidaysBetweenTwoDates\bin\Debug\01.HolidaysBetweenTwoDates.exe
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\1.1Git and GitHub, Debugging and Troubleshooting\01.HolidaysBetweenTwoDates\bin\Debug\01.HolidaysBetweenTwoDates.pdb
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\1.1Git and GitHub, Debugging and Troubleshooting\01.HolidaysBetweenTwoDates\obj\Debug\01.HolidaysBetweenTwoDates.exe
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\1.1Git and GitHub, Debugging and Troubleshooting\01.HolidaysBetweenTwoDates\obj\Debug\01.HolidaysBetweenTwoDates.pdb

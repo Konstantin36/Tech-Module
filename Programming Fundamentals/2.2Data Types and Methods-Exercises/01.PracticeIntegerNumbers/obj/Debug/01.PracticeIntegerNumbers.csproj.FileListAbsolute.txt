@@ -1,6 +1,0 @@
-c:\users\mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\01.PracticeIntegerNumbers\bin\Debug\01.PracticeIntegerNumbers.exe.config
-c:\users\mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\01.PracticeIntegerNumbers\bin\Debug\01.PracticeIntegerNumbers.exe
-c:\users\mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\01.PracticeIntegerNumbers\bin\Debug\01.PracticeIntegerNumbers.pdb
-c:\users\mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\01.PracticeIntegerNumbers\obj\Debug\01.PracticeIntegerNumbers.csprojResolveAssemblyReference.cache
-c:\users\mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\01.PracticeIntegerNumbers\obj\Debug\01.PracticeIntegerNumbers.exe
-c:\users\mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\01.PracticeIntegerNumbers\obj\Debug\01.PracticeIntegerNumbers.pdb

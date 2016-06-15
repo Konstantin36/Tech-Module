@@ -1,5 +1,0 @@
-c:\users\mirela\documents\visual studio 2015\Projects\5.1Strings, Dictionaries, Lambda and LINQ\05.ForbiddenSubstrings\bin\Debug\05.ForbiddenSubstrings.exe.config
-c:\users\mirela\documents\visual studio 2015\Projects\5.1Strings, Dictionaries, Lambda and LINQ\05.ForbiddenSubstrings\bin\Debug\05.ForbiddenSubstrings.exe
-c:\users\mirela\documents\visual studio 2015\Projects\5.1Strings, Dictionaries, Lambda and LINQ\05.ForbiddenSubstrings\bin\Debug\05.ForbiddenSubstrings.pdb
-c:\users\mirela\documents\visual studio 2015\Projects\5.1Strings, Dictionaries, Lambda and LINQ\05.ForbiddenSubstrings\obj\Debug\05.ForbiddenSubstrings.exe
-c:\users\mirela\documents\visual studio 2015\Projects\5.1Strings, Dictionaries, Lambda and LINQ\05.ForbiddenSubstrings\obj\Debug\05.ForbiddenSubstrings.pdb

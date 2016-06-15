@@ -1,5 +1,0 @@
-c:\users\mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\07.ExchangeVariableValues\bin\Debug\07.ExchangeVariableValues.exe.config
-c:\users\mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\07.ExchangeVariableValues\bin\Debug\07.ExchangeVariableValues.exe
-c:\users\mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\07.ExchangeVariableValues\bin\Debug\07.ExchangeVariableValues.pdb
-c:\users\mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\07.ExchangeVariableValues\obj\Debug\07.ExchangeVariableValues.exe
-c:\users\mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\07.ExchangeVariableValues\obj\Debug\07.ExchangeVariableValues.pdb

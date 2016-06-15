@@ -1,5 +1,0 @@
-c:\users\mirela\documents\visual studio 2015\Projects\5.1Strings, Dictionaries, Lambda and LINQ\02.CountLettersInString\bin\Debug\02.CountLettersInString.exe.config
-c:\users\mirela\documents\visual studio 2015\Projects\5.1Strings, Dictionaries, Lambda and LINQ\02.CountLettersInString\bin\Debug\02.CountLettersInString.exe
-c:\users\mirela\documents\visual studio 2015\Projects\5.1Strings, Dictionaries, Lambda and LINQ\02.CountLettersInString\bin\Debug\02.CountLettersInString.pdb
-c:\users\mirela\documents\visual studio 2015\Projects\5.1Strings, Dictionaries, Lambda and LINQ\02.CountLettersInString\obj\Debug\02.CountLettersInString.exe
-c:\users\mirela\documents\visual studio 2015\Projects\5.1Strings, Dictionaries, Lambda and LINQ\02.CountLettersInString\obj\Debug\02.CountLettersInString.pdb

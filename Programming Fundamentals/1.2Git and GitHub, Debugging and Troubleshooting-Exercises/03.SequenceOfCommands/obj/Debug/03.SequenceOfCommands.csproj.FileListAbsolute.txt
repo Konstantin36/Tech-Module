@@ -1,1 +1,0 @@
-c:\users\mirela\documents\visual studio 2015\Projects\1.2Git and GitHub, Debugging and Troubleshooting-Exercises\03.SequenceOfCommands\bin\Debug\03.SequenceOfCommands.exe.config

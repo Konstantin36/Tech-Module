@@ -1,5 +1,0 @@
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.1Arrays\04.LastKNumbersSumsSequence\bin\Debug\04.LastKNumbersSumsSequence.exe.config
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.1Arrays\04.LastKNumbersSumsSequence\bin\Debug\04.LastKNumbersSumsSequence.exe
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.1Arrays\04.LastKNumbersSumsSequence\bin\Debug\04.LastKNumbersSumsSequence.pdb
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.1Arrays\04.LastKNumbersSumsSequence\obj\Debug\04.LastKNumbersSumsSequence.exe
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.1Arrays\04.LastKNumbersSumsSequence\obj\Debug\04.LastKNumbersSumsSequence.pdb

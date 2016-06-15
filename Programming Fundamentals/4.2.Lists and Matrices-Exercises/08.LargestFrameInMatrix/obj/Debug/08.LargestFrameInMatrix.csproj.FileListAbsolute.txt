@@ -1,1 +1,0 @@
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\4.2.Lists and Matrices-Exercises\08.LargestFrameInMatrix\bin\Debug\08.LargestFrameInMatrix.exe.config

@@ -1,6 +1,0 @@
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\4.1Lists and Matrices\07.CountNumbers\bin\Debug\07.CountNumbers.exe.config
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\4.1Lists and Matrices\07.CountNumbers\bin\Debug\07.CountNumbers.exe
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\4.1Lists and Matrices\07.CountNumbers\bin\Debug\07.CountNumbers.pdb
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\4.1Lists and Matrices\07.CountNumbers\obj\Debug\07.CountNumbers.csprojResolveAssemblyReference.cache
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\4.1Lists and Matrices\07.CountNumbers\obj\Debug\07.CountNumbers.exe
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\4.1Lists and Matrices\07.CountNumbers\obj\Debug\07.CountNumbers.pdb

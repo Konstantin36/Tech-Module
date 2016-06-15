@@ -1,6 +1,0 @@
-c:\users\mirela\documents\visual studio 2015\Projects\6.2Objects and Clases-Exercises\02.AdvertisementMessage\bin\Debug\02.AdvertisementMessage.exe.config
-c:\users\mirela\documents\visual studio 2015\Projects\6.2Objects and Clases-Exercises\02.AdvertisementMessage\bin\Debug\02.AdvertisementMessage.exe
-c:\users\mirela\documents\visual studio 2015\Projects\6.2Objects and Clases-Exercises\02.AdvertisementMessage\bin\Debug\02.AdvertisementMessage.pdb
-c:\users\mirela\documents\visual studio 2015\Projects\6.2Objects and Clases-Exercises\02.AdvertisementMessage\obj\Debug\02.AdvertisementMessage.csprojResolveAssemblyReference.cache
-c:\users\mirela\documents\visual studio 2015\Projects\6.2Objects and Clases-Exercises\02.AdvertisementMessage\obj\Debug\02.AdvertisementMessage.exe
-c:\users\mirela\documents\visual studio 2015\Projects\6.2Objects and Clases-Exercises\02.AdvertisementMessage\obj\Debug\02.AdvertisementMessage.pdb

@@ -1,5 +1,0 @@
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\22.FibonacciNumbers\bin\Debug\22.FibonacciNumbers.exe.config
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\22.FibonacciNumbers\bin\Debug\22.FibonacciNumbers.exe
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\22.FibonacciNumbers\bin\Debug\22.FibonacciNumbers.pdb
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\22.FibonacciNumbers\obj\Debug\22.FibonacciNumbers.exe
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\22.FibonacciNumbers\obj\Debug\22.FibonacciNumbers.pdb

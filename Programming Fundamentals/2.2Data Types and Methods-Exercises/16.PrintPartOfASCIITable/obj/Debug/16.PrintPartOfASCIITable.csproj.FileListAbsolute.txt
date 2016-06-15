@@ -1,5 +1,0 @@
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\16.PrintPartOfASCIITable\bin\Debug\16.PrintPartOfASCIITable.exe.config
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\16.PrintPartOfASCIITable\bin\Debug\16.PrintPartOfASCIITable.exe
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\16.PrintPartOfASCIITable\bin\Debug\16.PrintPartOfASCIITable.pdb
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\16.PrintPartOfASCIITable\obj\Debug\16.PrintPartOfASCIITable.exe
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\16.PrintPartOfASCIITable\obj\Debug\16.PrintPartOfASCIITable.pdb

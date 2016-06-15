@@ -1,1 +1,0 @@
-c:\users\mirela\documents\visual studio 2015\Projects\2.1Data Types and Methods\08.DayOfWeek\bin\Debug\08.DayOfWeek.exe.config

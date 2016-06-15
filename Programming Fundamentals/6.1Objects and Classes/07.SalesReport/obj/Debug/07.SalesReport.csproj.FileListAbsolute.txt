@@ -1,5 +1,0 @@
-c:\users\mirela\documents\visual studio 2015\Projects\6.1Objects and Classes\07.SalesReport\bin\Debug\07.SalesReport.exe.config
-c:\users\mirela\documents\visual studio 2015\Projects\6.1Objects and Classes\07.SalesReport\bin\Debug\07.SalesReport.exe
-c:\users\mirela\documents\visual studio 2015\Projects\6.1Objects and Classes\07.SalesReport\bin\Debug\07.SalesReport.pdb
-c:\users\mirela\documents\visual studio 2015\Projects\6.1Objects and Classes\07.SalesReport\obj\Debug\07.SalesReport.exe
-c:\users\mirela\documents\visual studio 2015\Projects\6.1Objects and Classes\07.SalesReport\obj\Debug\07.SalesReport.pdb

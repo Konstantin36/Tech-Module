@@ -1,6 +1,0 @@
-c:\users\mirela\documents\visual studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\05.URLParser\bin\Debug\05.URLParser.exe.config
-c:\users\mirela\documents\visual studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\05.URLParser\bin\Debug\05.URLParser.exe
-c:\users\mirela\documents\visual studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\05.URLParser\bin\Debug\05.URLParser.pdb
-c:\users\mirela\documents\visual studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\05.URLParser\obj\Debug\05.URLParser.csprojResolveAssemblyReference.cache
-c:\users\mirela\documents\visual studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\05.URLParser\obj\Debug\05.URLParser.exe
-c:\users\mirela\documents\visual studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\05.URLParser\obj\Debug\05.URLParser.pdb

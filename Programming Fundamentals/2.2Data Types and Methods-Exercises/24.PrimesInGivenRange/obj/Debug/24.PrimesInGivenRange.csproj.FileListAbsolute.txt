@@ -1,5 +1,0 @@
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\24.PrimesInGivenRange\bin\Debug\24.PrimesInGivenRange.exe.config
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\24.PrimesInGivenRange\bin\Debug\24.PrimesInGivenRange.exe
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\24.PrimesInGivenRange\bin\Debug\24.PrimesInGivenRange.pdb
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\24.PrimesInGivenRange\obj\Debug\24.PrimesInGivenRange.exe
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\24.PrimesInGivenRange\obj\Debug\24.PrimesInGivenRange.pdb

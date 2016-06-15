@@ -1,1 +1,0 @@
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.1Arrays\03.SumMinMaxFirstLastAverage\bin\Debug\03.SumMinMaxFirstLastAverage.exe.config

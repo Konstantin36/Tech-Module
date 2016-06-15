@@ -1,6 +1,0 @@
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\26.Factorial\bin\Debug\26.Factorial.exe.config
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\26.Factorial\bin\Debug\26.Factorial.exe
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\26.Factorial\bin\Debug\26.Factorial.pdb
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\26.Factorial\obj\Debug\26.Factorial.csprojResolveAssemblyReference.cache
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\26.Factorial\obj\Debug\26.Factorial.exe
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\26.Factorial\obj\Debug\26.Factorial.pdb

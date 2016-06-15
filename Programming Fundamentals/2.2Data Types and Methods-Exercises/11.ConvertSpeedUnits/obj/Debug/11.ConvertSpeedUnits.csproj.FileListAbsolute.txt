@@ -1,6 +1,0 @@
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\11.ConvertSpeedUnits\bin\Debug\11.ConvertSpeedUnits.exe.config
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\11.ConvertSpeedUnits\bin\Debug\11.ConvertSpeedUnits.exe
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\11.ConvertSpeedUnits\bin\Debug\11.ConvertSpeedUnits.pdb
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\11.ConvertSpeedUnits\obj\Debug\11.ConvertSpeedUnits.csprojResolveAssemblyReference.cache
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\11.ConvertSpeedUnits\obj\Debug\11.ConvertSpeedUnits.exe
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\11.ConvertSpeedUnits\obj\Debug\11.ConvertSpeedUnits.pdb

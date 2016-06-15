@@ -1,6 +1,0 @@
-c:\users\mirela\documents\visual studio 2015\Projects\4.1Lists and Matrices\01.RemoveNegativesAndReverse\bin\Debug\01.RemoveNegativesAndReverse.exe.config
-c:\users\mirela\documents\visual studio 2015\Projects\4.1Lists and Matrices\01.RemoveNegativesAndReverse\bin\Debug\01.RemoveNegativesAndReverse.exe
-c:\users\mirela\documents\visual studio 2015\Projects\4.1Lists and Matrices\01.RemoveNegativesAndReverse\bin\Debug\01.RemoveNegativesAndReverse.pdb
-c:\users\mirela\documents\visual studio 2015\Projects\4.1Lists and Matrices\01.RemoveNegativesAndReverse\obj\Debug\01.RemoveNegativesAndReverse.csprojResolveAssemblyReference.cache
-c:\users\mirela\documents\visual studio 2015\Projects\4.1Lists and Matrices\01.RemoveNegativesAndReverse\obj\Debug\01.RemoveNegativesAndReverse.exe
-c:\users\mirela\documents\visual studio 2015\Projects\4.1Lists and Matrices\01.RemoveNegativesAndReverse\obj\Debug\01.RemoveNegativesAndReverse.pdb

@@ -1,6 +1,0 @@
-c:\users\mirela\documents\visual studio 2015\Projects\3.1Arrays\02.ReverseAnArrayOfIntegers\bin\Debug\02.ReverseAnArrayOfIntegers.exe.config
-c:\users\mirela\documents\visual studio 2015\Projects\3.1Arrays\02.ReverseAnArrayOfIntegers\bin\Debug\02.ReverseAnArrayOfIntegers.exe
-c:\users\mirela\documents\visual studio 2015\Projects\3.1Arrays\02.ReverseAnArrayOfIntegers\bin\Debug\02.ReverseAnArrayOfIntegers.pdb
-c:\users\mirela\documents\visual studio 2015\Projects\3.1Arrays\02.ReverseAnArrayOfIntegers\obj\Debug\02.ReverseAnArrayOfIntegers.csprojResolveAssemblyReference.cache
-c:\users\mirela\documents\visual studio 2015\Projects\3.1Arrays\02.ReverseAnArrayOfIntegers\obj\Debug\02.ReverseAnArrayOfIntegers.exe
-c:\users\mirela\documents\visual studio 2015\Projects\3.1Arrays\02.ReverseAnArrayOfIntegers\obj\Debug\02.ReverseAnArrayOfIntegers.pdb

@@ -1,6 +1,0 @@
-c:\users\mirela\documents\visual studio 2015\Projects\5.1Strings, Dictionaries, Lambda and LINQ\01.PrintStringLetters\bin\Debug\01.PrintStringLetters.exe.config
-c:\users\mirela\documents\visual studio 2015\Projects\5.1Strings, Dictionaries, Lambda and LINQ\01.PrintStringLetters\bin\Debug\01.PrintStringLetters.exe
-c:\users\mirela\documents\visual studio 2015\Projects\5.1Strings, Dictionaries, Lambda and LINQ\01.PrintStringLetters\bin\Debug\01.PrintStringLetters.pdb
-c:\users\mirela\documents\visual studio 2015\Projects\5.1Strings, Dictionaries, Lambda and LINQ\01.PrintStringLetters\obj\Debug\01.PrintStringLetters.csprojResolveAssemblyReference.cache
-c:\users\mirela\documents\visual studio 2015\Projects\5.1Strings, Dictionaries, Lambda and LINQ\01.PrintStringLetters\obj\Debug\01.PrintStringLetters.exe
-c:\users\mirela\documents\visual studio 2015\Projects\5.1Strings, Dictionaries, Lambda and LINQ\01.PrintStringLetters\obj\Debug\01.PrintStringLetters.pdb

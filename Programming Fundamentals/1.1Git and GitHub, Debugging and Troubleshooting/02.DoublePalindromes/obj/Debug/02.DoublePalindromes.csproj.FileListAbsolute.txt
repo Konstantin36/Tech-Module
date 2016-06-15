@@ -1,5 +1,0 @@
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\1.1Git and GitHub, Debugging and Troubleshooting\02.DoublePalindromes\bin\Debug\02.DoublePalindromes.exe.config
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\1.1Git and GitHub, Debugging and Troubleshooting\02.DoublePalindromes\bin\Debug\02.DoublePalindromes.exe
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\1.1Git and GitHub, Debugging and Troubleshooting\02.DoublePalindromes\bin\Debug\02.DoublePalindromes.pdb
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\1.1Git and GitHub, Debugging and Troubleshooting\02.DoublePalindromes\obj\Debug\02.DoublePalindromes.exe
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\1.1Git and GitHub, Debugging and Troubleshooting\02.DoublePalindromes\obj\Debug\02.DoublePalindromes.pdb

@@ -1,5 +1,0 @@
-c:\users\mirela\documents\visual studio 2015\Projects\6.2Objects and Clases-Exercises\06.BookLibraryModification\bin\Debug\06.BookLibraryModification.exe.config
-c:\users\mirela\documents\visual studio 2015\Projects\6.2Objects and Clases-Exercises\06.BookLibraryModification\bin\Debug\06.BookLibraryModification.exe
-c:\users\mirela\documents\visual studio 2015\Projects\6.2Objects and Clases-Exercises\06.BookLibraryModification\bin\Debug\06.BookLibraryModification.pdb
-c:\users\mirela\documents\visual studio 2015\Projects\6.2Objects and Clases-Exercises\06.BookLibraryModification\obj\Debug\06.BookLibraryModification.exe
-c:\users\mirela\documents\visual studio 2015\Projects\6.2Objects and Clases-Exercises\06.BookLibraryModification\obj\Debug\06.BookLibraryModification.pdb

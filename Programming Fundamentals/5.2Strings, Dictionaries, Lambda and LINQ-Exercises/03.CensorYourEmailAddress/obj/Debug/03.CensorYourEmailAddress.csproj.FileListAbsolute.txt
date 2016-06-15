@@ -1,5 +1,0 @@
-c:\users\mirela\documents\visual studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\03.CensorYourEmailAddress\bin\Debug\03.CensorYourEmailAddress.exe.config
-c:\users\mirela\documents\visual studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\03.CensorYourEmailAddress\bin\Debug\03.CensorYourEmailAddress.exe
-c:\users\mirela\documents\visual studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\03.CensorYourEmailAddress\bin\Debug\03.CensorYourEmailAddress.pdb
-c:\users\mirela\documents\visual studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\03.CensorYourEmailAddress\obj\Debug\03.CensorYourEmailAddress.exe
-c:\users\mirela\documents\visual studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\03.CensorYourEmailAddress\obj\Debug\03.CensorYourEmailAddress.pdb

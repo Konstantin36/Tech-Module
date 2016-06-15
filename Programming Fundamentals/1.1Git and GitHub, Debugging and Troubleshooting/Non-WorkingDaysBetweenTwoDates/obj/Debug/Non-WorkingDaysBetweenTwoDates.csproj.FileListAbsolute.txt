@@ -1,6 +1,0 @@
-c:\users\mirela\documents\visual studio 2015\Projects\1.1Git and GitHub, Debugging and Troubleshooting\Non-WorkingDaysBetweenTwoDates\bin\Debug\Non-WorkingDaysBetweenTwoDates.exe.config
-c:\users\mirela\documents\visual studio 2015\Projects\1.1Git and GitHub, Debugging and Troubleshooting\Non-WorkingDaysBetweenTwoDates\bin\Debug\Non-WorkingDaysBetweenTwoDates.exe
-c:\users\mirela\documents\visual studio 2015\Projects\1.1Git and GitHub, Debugging and Troubleshooting\Non-WorkingDaysBetweenTwoDates\bin\Debug\Non-WorkingDaysBetweenTwoDates.pdb
-c:\users\mirela\documents\visual studio 2015\Projects\1.1Git and GitHub, Debugging and Troubleshooting\Non-WorkingDaysBetweenTwoDates\obj\Debug\Non-WorkingDaysBetweenTwoDates.csprojResolveAssemblyReference.cache
-c:\users\mirela\documents\visual studio 2015\Projects\1.1Git and GitHub, Debugging and Troubleshooting\Non-WorkingDaysBetweenTwoDates\obj\Debug\Non-WorkingDaysBetweenTwoDates.exe
-c:\users\mirela\documents\visual studio 2015\Projects\1.1Git and GitHub, Debugging and Troubleshooting\Non-WorkingDaysBetweenTwoDates\obj\Debug\Non-WorkingDaysBetweenTwoDates.pdb

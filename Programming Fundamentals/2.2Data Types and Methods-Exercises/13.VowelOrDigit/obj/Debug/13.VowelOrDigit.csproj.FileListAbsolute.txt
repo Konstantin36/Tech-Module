@@ -1,5 +1,0 @@
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\13.VowelOrDigit\bin\Debug\13.VowelOrDigit.exe.config
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\13.VowelOrDigit\bin\Debug\13.VowelOrDigit.exe
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\13.VowelOrDigit\bin\Debug\13.VowelOrDigit.pdb
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\13.VowelOrDigit\obj\Debug\13.VowelOrDigit.exe
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\13.VowelOrDigit\obj\Debug\13.VowelOrDigit.pdb

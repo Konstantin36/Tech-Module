@@ -1,1 +1,0 @@
-c:\users\mirela\documents\visual studio 2015\Projects\Programming Fundamentals Sample Exam II - June 2016\03.MatrixOperator\bin\Debug\03.MatrixOperator.exe.config

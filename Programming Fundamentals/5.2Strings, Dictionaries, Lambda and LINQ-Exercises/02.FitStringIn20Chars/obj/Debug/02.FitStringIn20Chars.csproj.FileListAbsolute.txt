@@ -1,5 +1,0 @@
-c:\users\mirela\documents\visual studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\02.FitStringIn20Chars\bin\Debug\02.FitStringIn20Chars.exe.config
-c:\users\mirela\documents\visual studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\02.FitStringIn20Chars\bin\Debug\02.FitStringIn20Chars.exe
-c:\users\mirela\documents\visual studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\02.FitStringIn20Chars\bin\Debug\02.FitStringIn20Chars.pdb
-c:\users\mirela\documents\visual studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\02.FitStringIn20Chars\obj\Debug\02.FitStringIn20Chars.exe
-c:\users\mirela\documents\visual studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\02.FitStringIn20Chars\obj\Debug\02.FitStringIn20Chars.pdb

@@ -1,5 +1,0 @@
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\12.RectangleProperties\bin\Debug\12.RectangleProperties.exe.config
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\12.RectangleProperties\bin\Debug\12.RectangleProperties.exe
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\12.RectangleProperties\bin\Debug\12.RectangleProperties.pdb
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\12.RectangleProperties\obj\Debug\12.RectangleProperties.exe
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\12.RectangleProperties\obj\Debug\12.RectangleProperties.pdb

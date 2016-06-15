@@ -1,5 +1,0 @@
-c:\users\mirela\documents\visual studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\04.ExtractSentencesByKeyword\bin\Debug\04.ExtractSentencesByKeyword.exe.config
-c:\users\mirela\documents\visual studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\04.ExtractSentencesByKeyword\bin\Debug\04.ExtractSentencesByKeyword.exe
-c:\users\mirela\documents\visual studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\04.ExtractSentencesByKeyword\bin\Debug\04.ExtractSentencesByKeyword.pdb
-c:\users\mirela\documents\visual studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\04.ExtractSentencesByKeyword\obj\Debug\04.ExtractSentencesByKeyword.exe
-c:\users\mirela\documents\visual studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\04.ExtractSentencesByKeyword\obj\Debug\04.ExtractSentencesByKeyword.pdb

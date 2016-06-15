@@ -1,5 +1,0 @@
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\20.EnglishNameOfLastDigit\bin\Debug\20.EnglishNameOfLastDigit.exe.config
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\20.EnglishNameOfLastDigit\bin\Debug\20.EnglishNameOfLastDigit.exe
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\20.EnglishNameOfLastDigit\bin\Debug\20.EnglishNameOfLastDigit.pdb
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\20.EnglishNameOfLastDigit\obj\Debug\20.EnglishNameOfLastDigit.exe
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\20.EnglishNameOfLastDigit\obj\Debug\20.EnglishNameOfLastDigit.pdb

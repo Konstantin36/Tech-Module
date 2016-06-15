@@ -1,5 +1,0 @@
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.2Arrays-Exercises\06.MaxSequenceOfEqualElements\bin\Debug\06.MaxSequenceOfEqualElements.exe.config
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.2Arrays-Exercises\06.MaxSequenceOfEqualElements\bin\Debug\06.MaxSequenceOfEqualElements.exe
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.2Arrays-Exercises\06.MaxSequenceOfEqualElements\bin\Debug\06.MaxSequenceOfEqualElements.pdb
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.2Arrays-Exercises\06.MaxSequenceOfEqualElements\obj\Debug\06.MaxSequenceOfEqualElements.exe
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.2Arrays-Exercises\06.MaxSequenceOfEqualElements\obj\Debug\06.MaxSequenceOfEqualElements.pdb

@@ -1,5 +1,0 @@
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\11.CommonStrings\bin\Debug\11.CommonStrings.exe.config
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\11.CommonStrings\bin\Debug\11.CommonStrings.exe
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\11.CommonStrings\bin\Debug\11.CommonStrings.pdb
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\11.CommonStrings\obj\Debug\11.CommonStrings.exe
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\5.2Strings, Dictionaries, Lambda and LINQ-Exercises\11.CommonStrings\obj\Debug\11.CommonStrings.pdb

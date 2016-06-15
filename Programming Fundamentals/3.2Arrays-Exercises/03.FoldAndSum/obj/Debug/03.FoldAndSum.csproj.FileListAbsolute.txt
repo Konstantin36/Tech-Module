@@ -1,6 +1,0 @@
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.2Arrays-Exercises\03.FoldAndSum\bin\Debug\03.FoldAndSum.exe.config
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.2Arrays-Exercises\03.FoldAndSum\bin\Debug\03.FoldAndSum.exe
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.2Arrays-Exercises\03.FoldAndSum\bin\Debug\03.FoldAndSum.pdb
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.2Arrays-Exercises\03.FoldAndSum\obj\Debug\03.FoldAndSum.csprojResolveAssemblyReference.cache
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.2Arrays-Exercises\03.FoldAndSum\obj\Debug\03.FoldAndSum.exe
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\3.2Arrays-Exercises\03.FoldAndSum\obj\Debug\03.FoldAndSum.pdb

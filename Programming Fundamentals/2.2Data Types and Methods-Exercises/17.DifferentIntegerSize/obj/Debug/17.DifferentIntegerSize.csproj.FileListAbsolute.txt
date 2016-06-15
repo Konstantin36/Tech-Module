@@ -1,6 +1,0 @@
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\17.DifferentIntegerSize\bin\Debug\17.DifferentIntegerSize.exe.config
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\17.DifferentIntegerSize\bin\Debug\17.DifferentIntegerSize.exe
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\17.DifferentIntegerSize\bin\Debug\17.DifferentIntegerSize.pdb
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\17.DifferentIntegerSize\obj\Debug\17.DifferentIntegerSize.csprojResolveAssemblyReference.cache
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\17.DifferentIntegerSize\obj\Debug\17.DifferentIntegerSize.exe
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\17.DifferentIntegerSize\obj\Debug\17.DifferentIntegerSize.pdb

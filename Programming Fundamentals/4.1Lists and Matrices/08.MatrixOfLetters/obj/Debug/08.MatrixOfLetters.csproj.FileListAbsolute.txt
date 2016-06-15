@@ -1,5 +1,0 @@
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\4.1Lists and Matrices\08.MatrixOfLetters\bin\Debug\08.MatrixOfLetters.exe.config
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\4.1Lists and Matrices\08.MatrixOfLetters\bin\Debug\08.MatrixOfLetters.exe
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\4.1Lists and Matrices\08.MatrixOfLetters\bin\Debug\08.MatrixOfLetters.pdb
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\4.1Lists and Matrices\08.MatrixOfLetters\obj\Debug\08.MatrixOfLetters.exe
-C:\Users\Mirela\Documents\Visual Studio 2015\Projects\4.1Lists and Matrices\08.MatrixOfLetters\obj\Debug\08.MatrixOfLetters.pdb

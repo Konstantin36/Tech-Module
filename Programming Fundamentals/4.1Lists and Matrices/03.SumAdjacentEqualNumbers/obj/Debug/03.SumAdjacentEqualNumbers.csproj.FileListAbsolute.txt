@@ -1,5 +1,0 @@
-c:\users\mirela\documents\visual studio 2015\Projects\4.1Lists and Matrices\03.SumAdjacentEqualNumbers\bin\Debug\03.SumAdjacentEqualNumbers.exe.config
-c:\users\mirela\documents\visual studio 2015\Projects\4.1Lists and Matrices\03.SumAdjacentEqualNumbers\bin\Debug\03.SumAdjacentEqualNumbers.exe
-c:\users\mirela\documents\visual studio 2015\Projects\4.1Lists and Matrices\03.SumAdjacentEqualNumbers\bin\Debug\03.SumAdjacentEqualNumbers.pdb
-c:\users\mirela\documents\visual studio 2015\Projects\4.1Lists and Matrices\03.SumAdjacentEqualNumbers\obj\Debug\03.SumAdjacentEqualNumbers.exe
-c:\users\mirela\documents\visual studio 2015\Projects\4.1Lists and Matrices\03.SumAdjacentEqualNumbers\obj\Debug\03.SumAdjacentEqualNumbers.pdb

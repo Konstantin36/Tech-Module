@@ -1,5 +1,0 @@
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\23.PrimeChecker\bin\Debug\23.PrimeChecker.exe.config
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\23.PrimeChecker\bin\Debug\23.PrimeChecker.exe
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\23.PrimeChecker\bin\Debug\23.PrimeChecker.pdb
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\23.PrimeChecker\obj\Debug\23.PrimeChecker.exe
-C:\Users\Mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\23.PrimeChecker\obj\Debug\23.PrimeChecker.pdb

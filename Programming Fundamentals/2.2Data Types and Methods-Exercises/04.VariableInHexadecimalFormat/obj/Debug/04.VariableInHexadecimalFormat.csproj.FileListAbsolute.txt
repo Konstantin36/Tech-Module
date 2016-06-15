@@ -1,5 +1,0 @@
-c:\users\mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\04.VariableInHexadecimalFormat\bin\Debug\04.VariableInHexadecimalFormat.exe.config
-c:\users\mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\04.VariableInHexadecimalFormat\bin\Debug\04.VariableInHexadecimalFormat.exe
-c:\users\mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\04.VariableInHexadecimalFormat\bin\Debug\04.VariableInHexadecimalFormat.pdb
-c:\users\mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\04.VariableInHexadecimalFormat\obj\Debug\04.VariableInHexadecimalFormat.exe
-c:\users\mirela\documents\visual studio 2015\Projects\2.2Data Types and Methods-Exercises\04.VariableInHexadecimalFormat\obj\Debug\04.VariableInHexadecimalFormat.pdb

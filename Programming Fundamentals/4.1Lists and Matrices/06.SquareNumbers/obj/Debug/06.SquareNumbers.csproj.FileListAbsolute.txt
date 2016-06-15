@@ -1,5 +1,0 @@
-c:\users\mirela\documents\visual studio 2015\Projects\4.1Lists and Matrices\06.SquareNumbers\bin\Debug\06.SquareNumbers.exe.config
-c:\users\mirela\documents\visual studio 2015\Projects\4.1Lists and Matrices\06.SquareNumbers\bin\Debug\06.SquareNumbers.exe
-c:\users\mirela\documents\visual studio 2015\Projects\4.1Lists and Matrices\06.SquareNumbers\bin\Debug\06.SquareNumbers.pdb
-c:\users\mirela\documents\visual studio 2015\Projects\4.1Lists and Matrices\06.SquareNumbers\obj\Debug\06.SquareNumbers.exe
-c:\users\mirela\documents\visual studio 2015\Projects\4.1Lists and Matrices\06.SquareNumbers\obj\Debug\06.SquareNumbers.pdb

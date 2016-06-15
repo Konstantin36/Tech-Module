@@ -1,5 +1,0 @@
-c:\users\mirela\documents\visual studio 2015\Projects\6.2Objects and Clases-Exercises\04.AverageGrades\bin\Debug\04.AverageGrades.exe.config
-c:\users\mirela\documents\visual studio 2015\Projects\6.2Objects and Clases-Exercises\04.AverageGrades\bin\Debug\04.AverageGrades.exe
-c:\users\mirela\documents\visual studio 2015\Projects\6.2Objects and Clases-Exercises\04.AverageGrades\bin\Debug\04.AverageGrades.pdb
-c:\users\mirela\documents\visual studio 2015\Projects\6.2Objects and Clases-Exercises\04.AverageGrades\obj\Debug\04.AverageGrades.exe
-c:\users\mirela\documents\visual studio 2015\Projects\6.2Objects and Clases-Exercises\04.AverageGrades\obj\Debug\04.AverageGrades.pdb
