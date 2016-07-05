@@ -30,7 +30,5 @@
         foreach ($resultArr as $resultLine){
             echo $resultLine . "<br>";
         }
-        
-        
     }
 ?>

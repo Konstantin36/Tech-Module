@@ -22,7 +22,6 @@
         $arr[$i] = 0;
     }
 
-
     foreach ($lines as $line) {
         $pair = explode($delimiter, $line);
         $arr[$pair[0]] = $pair[1];
